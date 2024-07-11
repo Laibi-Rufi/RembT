@@ -209,7 +209,7 @@ nav li a:hover {
   cursor: pointer;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 868px) {
   .mobile-menu, .mobile-menu-exit {
     display: none;
   }
